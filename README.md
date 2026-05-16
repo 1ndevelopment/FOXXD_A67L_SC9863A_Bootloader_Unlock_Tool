@@ -1,4 +1,11 @@
-## Unlocking the bootloader
+## FOXXD A67L Bootloader Unlock Tool
+
+Fetch this repo
+
+```bash
+git clone https://github.com/1ndevelopment/FOXXD_A67L_SC9863A_Bootloader_Unlock_Tool
+cd FOXXD_A67L_SC9863A_Bootloader_Unlock_Tool
+```
 
 Power off your device fully.
 
