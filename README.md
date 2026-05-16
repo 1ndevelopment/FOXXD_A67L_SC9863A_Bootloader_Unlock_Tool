@@ -1,6 +1,4 @@
-##############################
-## Unlocking the bootloader ##
-##############################
+## Unlocking the bootloader
 
 Power off your device fully.
 
