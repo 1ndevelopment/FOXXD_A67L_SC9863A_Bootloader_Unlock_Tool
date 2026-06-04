@@ -1,0 +1,7 @@
+partition_*
+pgpt.bin
+boot.bin
+m.bin
+spl-unlock.bin
+u-boot-spl-16k-sign.bin
+uboot_bak.bin
